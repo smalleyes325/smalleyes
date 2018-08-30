@@ -1,0 +1,2800 @@
+{
+    "resultCode": "CCOM1000",
+    "resultDesc": "成功",
+    "data": {
+        "ebDetailInfo": {
+            "storeTime": 1535439720157,
+            "type": "TB",
+            "personalInfo": {
+                "loginName": "足利武",
+                "nickName": "大爱Excel的小武",
+                "gender": "男",
+                "mobile": "137****5284",
+                "vipGrowthLevel": 0,
+                "vipGrowthNumber": 4104,
+                "safeLevel": "中",
+                "isRealCheck": true,
+                "boundWay": "淘宝个人实名认证（身份证件已上传）",
+                "realCheckTime": "",
+                "boundCertNo": "3****************0",
+                "boundName": "朱**",
+                "taoScore": 578,
+                "tmallPoints": 846
+            },
+            "receiveAddresses": [
+                {
+                    "isDefault": true,
+                    "receivePersonalName": "朱楼刚",
+                    "area": "浙江省杭州市西湖区古荡街道",
+                    "address": "浙江省杭州市西湖区古荡街道益乐新村北四区1号",
+                    "mobile": "13758155284",
+                    "postalCode": "000000",
+                    "province": "浙江省",
+                    "city": "杭州市"
+                },
+                {
+                    "isDefault": false,
+                    "receivePersonalName": "俞超群",
+                    "area": "浙江省杭州市余杭区中泰街道",
+                    "address": "浙江省杭州市余杭区中泰街道余杭区南湖村小坞里五组17号",
+                    "mobile": "13656679354",
+                    "postalCode": "311100",
+                    "province": "浙江省",
+                    "city": "杭州市"
+                },
+                {
+                    "isDefault": false,
+                    "receivePersonalName": "朱楼刚",
+                    "area": "浙江省杭州市余杭区仓前街道",
+                    "address": "浙江省杭州市余杭区仓前街道杭州市余杭区文一西路1217号IT公园4号楼5楼",
+                    "mobile": "13758155284",
+                    "postalCode": "000000",
+                    "province": "浙江省",
+                    "city": "杭州市"
+                }
+            ],
+            "zhifubaoInfo": {
+                "userName": "137*****284",
+                "boundTbName": "足利武",
+                "accountType": "个人账户",
+                "identityCard": "3****************0",
+                "realName": "朱**",
+                "accountBalanceAmount": 0,
+                "yebBalanceAmount": 0,
+                "huabeiTotalAmount": 5000,
+                "huabeiAvailableAmount": 4802
+            },
+            "footMarkDetails": [],
+            "footmarkCalendars": [
+                {
+                    "date": 1533571200000,
+                    "totalNum": 1
+                },
+                {
+                    "date": 1533657600000,
+                    "totalNum": 1
+                },
+                {
+                    "date": 1533830400000,
+                    "totalNum": 2
+                }
+            ],
+            "orderDetails": [
+                {
+                    "orderId": "202243477471562090",
+                    "createTime": 1534483610000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "13597186565",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13597186565&quantity=1",
+                            "itemName": "【闪电发货】浙江移动话费充值100元自动快充",
+                            "price": 99.98,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13597186565",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13597186565&quantity=1",
+                            "itemName": "【闪电发货】浙江移动话费充值100元自动快充",
+                            "price": 99.98,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13597186565",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13597186565&quantity=1",
+                            "itemName": "【闪电发货】浙江移动话费充值100元自动快充",
+                            "price": 99.98,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13597186565",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13597186565&quantity=1",
+                            "itemName": "【闪电发货】浙江移动话费充值100元自动快充",
+                            "price": 99.98,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.98,
+                        "dueMoney": 99.98,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "199706901057562090",
+                    "createTime": 1534119710000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "196763823117562090",
+                    "createTime": 1533633060000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "569263428197",
+                            "itemUrl": "//item.taobao.com/item.htm?id=569263428197&_u=s27238lsabcf",
+                            "itemName": "圣天源西藏特产牦牛肉干1斤装散装麻辣正宗草原风干手撕耗牛肉干",
+                            "price": 99,
+                            "number": 2,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        },
+                        {
+                            "itemId": "569263428197",
+                            "itemUrl": "//item.taobao.com/item.htm?id=569263428197&_u=s27238lsabcf",
+                            "itemName": "圣天源西藏特产牦牛肉干1斤装散装麻辣正宗草原风干手撕耗牛肉干",
+                            "price": 99,
+                            "number": 2,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        },
+                        {
+                            "itemId": "569263428197",
+                            "itemUrl": "//item.taobao.com/item.htm?id=569263428197&_u=s27238lsabcf",
+                            "itemName": "圣天源西藏特产牦牛肉干1斤装散装麻辣正宗草原风干手撕耗牛肉干",
+                            "price": 99,
+                            "number": 2,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        },
+                        {
+                            "itemId": "569263428197",
+                            "itemUrl": "//item.taobao.com/item.htm?id=569263428197&_u=s27238lsabcf",
+                            "itemName": "圣天源西藏特产牦牛肉干1斤装散装麻辣正宗草原风干手撕耗牛肉干",
+                            "price": 99,
+                            "number": 2,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverCompany": "百世快递",
+                        "deliverId": "70091279407579",
+                        "receiveTime": 0,
+                        "detail": "[{\"date\":\"2018-08-07\",\"time\":\"17:21:37\",\"text2\":\"包裹正在等待揽收\",\"action\":\"CONSIGN\",\"cityId\":\"440300\",\"text\":\"卖家发货\",\"type\":\"500\"},{\"date\":\"2018-08-07\",\"time\":\"18:24:36\",\"text2\":\"【深圳市】您的包裹已由物流公司揽收\",\"action\":\"TMS_ACCEPT\",\"cityId\":\"440300\",\"text\":\"【深圳新龙岗站】揽收成功\",\"type\":\"500\"},{\"date\":\"2018-08-07\",\"time\":\"21:54:43\",\"text2\":\"【深圳市】快件已到达深圳新龙岗站\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"440300\",\"text\":\"到深圳市【深圳新龙岗站】\",\"type\":\"500\"},{\"date\":\"2018-08-08\",\"time\":\"00:26:20\",\"text2\":\"【深圳市】快件已到达深圳转运中心\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"440300\",\"text\":\"到深圳市【深圳转运中心】\",\"type\":\"500\"},{\"date\":\"2018-08-08\",\"time\":\"03:35:13\",\"text2\":\"【深圳市】快件已从深圳转运中心发出，准备发往杭州市\",\"action\":\"TMS_STATION_OUT\",\"cityId\":\"440300\",\"text\":\"深圳市【深圳转运中心】，正发往【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-08-08\",\"time\":\"22:48:31\",\"text2\":\"到杭州市【杭州转运中心】\",\"action\":\"TMS_SENT_CITY\",\"cityId\":\"330100\",\"text\":\"到杭州市【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-08-08\",\"time\":\"22:48:31\",\"text2\":\"【杭州市】快件已到达杭州转运中心\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"330100\",\"text\":\"到杭州市【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-08-09\",\"time\":\"00:22:00\",\"text2\":\"【杭州市】快件已从杭州转运中心发出，准备发往杭州余杭区十部\",\"action\":\"TMS_STATION_OUT\",\"cityId\":\"330100\",\"text\":\"杭州市【杭州转运中心】，正发往【杭州余杭区十部】\",\"type\":\"500\"},{\"date\":\"2018-08-09\",\"time\":\"08:34:23\",\"text2\":\"【杭州市】快件已到达杭州余杭区十部\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"330100\",\"text\":\"到杭州市【杭州余杭区十部】\",\"type\":\"500\"},{\"date\":\"2018-08-09\",\"time\":\"08:35:23\",\"text2\":\"【杭州市】杭州余杭区十部派件员：滕广正18565575726正在为您派件\",\"action\":\"TMS_DELIVERING\",\"cityId\":\"330100\",\"text\":\"杭州市【杭州余杭区十部】，【滕广正】正在派件\",\"type\":\"500\"},{\"date\":\"2018-08-09\",\"time\":\"12:51:37\",\"text2\":\"【杭州市】【已签收，签收人是查件18565575726。轻骑只为佳人笑，给个五星好不好？请在评价小件员处给予五星好评】，感谢使用百世快递，期待再次为您服务\",\"action\":\"TMS_SIGN\",\"cityId\":\"330100\",\"text\":\"【已签收，签收人是查件18565575726。轻骑只为佳人笑，给个五星好不好？请在评价小件员处给予五星好评】\",\"type\":\"500\"}]"
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 198,
+                        "dueMoney": 198,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "nick": "西藏圣天源sty",
+                        "shippedContactNumber": "13538409109",
+                        "shippedAddress": "广东省深圳市龙岗区爱南路，联亨商务大厦1601",
+                        "shippedName": "刘先生",
+                        "postalCode": "517172"
+                    }
+                },
+                {
+                    "orderId": "193088681191562090",
+                    "createTime": 1533084617000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "183397909098562090",
+                    "createTime": 1531465400000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "176325362428562090",
+                    "createTime": 1530149114000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "175886908579562090",
+                    "createTime": 1529983435000,
+                    "confirmTime": 1530847608000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "520132256193",
+                            "itemUrl": "//item.taobao.com/item.htm?id=520132256193&_u=s27238lse56c",
+                            "itemName": "鑫魔王 Hdmi转dvi高清线转换器接头带音频24+1显示器5/10米可互转笔记本2K电脑外接电视盒子PS4机顶盒2",
+                            "price": 9.9,
+                            "number": 1,
+                            "level1Id": "4",
+                            "level1Name": "家用电器",
+                            "level2Id": "50011972",
+                            "level2Name": "影音电器",
+                            "level3Id": "50011866",
+                            "level3Name": "影音家电配件"
+                        }
+                    ],
+                    "receivePersonInfo": {
+                        "receivePersonalName": "朱楼刚",
+                        "detailAddress": "浙江省杭州市西湖区古荡街道益乐新村北四区1号",
+                        "mobile": "86-13758155284",
+                        "postalCode": "000000"
+                    },
+                    "deliveryInfo": {
+                        "deliverCompany": "百世快递",
+                        "deliverId": "71182908058530",
+                        "receiveTime": 0,
+                        "detail": "[{\"date\":\"2018-06-26\",\"time\":\"11:25:36\",\"text2\":\"您的订单开始处理\",\"action\":\"X_TO_SYSTEM\",\"cityId\":\"\",\"text\":\"您的订单开始处理\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"11:25:36\",\"text2\":\"您的订单信息审核通过\",\"action\":\"X_SERVICE_AUDITED\",\"cityId\":\"\",\"text\":\"您的订单信息审核通过\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"11:25:36\",\"text2\":\"您的订单已通知配货\",\"action\":\"X_ALLOCATION_NOTIFIED\",\"cityId\":\"\",\"text\":\"您的订单已通知配货\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"11:26:23\",\"text2\":\"您的订单已打物流单\",\"action\":\"X_LOGISTICS_PRINTED\",\"cityId\":\"\",\"text\":\"您的订单已打物流单\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"11:26:35\",\"text2\":\"包裹正在等待揽收\",\"action\":\"CONSIGN\",\"cityId\":\"440300\",\"text\":\"卖家发货\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"19:58:40\",\"text2\":\"【深圳市】您的包裹已由物流公司揽收\",\"action\":\"TMS_ACCEPT\",\"cityId\":\"440300\",\"text\":\"【深圳平湖分部014】揽收成功\",\"type\":\"500\"},{\"date\":\"2018-06-26\",\"time\":\"23:02:18\",\"text2\":\"【深圳市】快件已到达深圳平湖分部集货点\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"440300\",\"text\":\"到深圳市【深圳平湖分部集货点】\",\"type\":\"500\"},{\"date\":\"2018-06-27\",\"time\":\"01:23:36\",\"text2\":\"【深圳市】快件已到达深圳转运中心\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"440300\",\"text\":\"到深圳市【深圳转运中心】\",\"type\":\"500\"},{\"date\":\"2018-06-27\",\"time\":\"03:33:53\",\"text2\":\"【深圳市】快件已从深圳转运中心发出，准备发往杭州市\",\"action\":\"TMS_STATION_OUT\",\"cityId\":\"440300\",\"text\":\"深圳市【深圳转运中心】，正发往【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-06-27\",\"time\":\"23:17:07\",\"text2\":\"到杭州市【杭州转运中心】\",\"action\":\"TMS_SENT_CITY\",\"cityId\":\"330100\",\"text\":\"到杭州市【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-06-27\",\"time\":\"23:17:07\",\"text2\":\"【杭州市】快件已到达杭州转运中心\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"330100\",\"text\":\"到杭州市【杭州转运中心】\",\"type\":\"500\"},{\"date\":\"2018-06-28\",\"time\":\"03:26:28\",\"text2\":\"【杭州市】快件已到达西湖十二部\",\"action\":\"TMS_STATION_IN\",\"cityId\":\"330100\",\"text\":\"到杭州市【西湖十二部】\",\"type\":\"500\"},{\"date\":\"2018-06-28\",\"time\":\"06:00:41\",\"text2\":\"【杭州市】快件已从杭州转运中心发出，准备发往杭州市\",\"action\":\"TMS_STATION_OUT\",\"cityId\":\"330100\",\"text\":\"杭州市【杭州转运中心】，正发往【西湖十二部】\",\"type\":\"500\"},{\"date\":\"2018-06-28\",\"time\":\"11:08:37\",\"text2\":\"【杭州市】西湖十二部派件员：益乐北15157145281正在为您派件\",\"action\":\"TMS_DELIVERING\",\"cityId\":\"330100\",\"text\":\"杭州市【西湖十二部】，【益乐北】正在派件\",\"type\":\"500\"},{\"date\":\"2018-06-28\",\"time\":\"14:13:54\",\"text2\":\"[代收点]派件送达【百世邻里益乐新村北五区代理点（15157145281益乐新村北五区14号）】入柜/入库\",\"action\":\"STA_INBOUND\",\"cityId\":\"330100\",\"text\":\"派件送达【百世邻里益乐新村北五区代理点（15157145281益乐新村北五区14号）】入柜/入库\",\"type\":\"500\"},{\"date\":\"2018-06-29\",\"time\":\"20:26:26\",\"text2\":\"客户已签收，提货点：【百世邻里益乐新村北五区代理点（15157145281益乐新村北五区14号）】\",\"action\":\"SH_SIGNED\",\"cityId\":\"330100\",\"text\":\"客户已签收，提货点：【百世邻里益乐新村北五区代理点（15157145281益乐新村北五区14号）】\",\"type\":\"500\"}]"
+                    },
+                    "payInfo": {
+                        "payTime": 1529983466000,
+                        "allMoney": 9.9,
+                        "dueMoney": 9.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "nick": "深圳鑫魔王专卖店",
+                        "name": "深圳市鑫魔王科技有限公司",
+                        "contactNumber": "13923887703",
+                        "city": "北京",
+                        "shippedContactNumber": "17704035051",
+                        "shippedAddress": "广东省深圳市龙岗区平湖华南城富安大道2号中国电子229",
+                        "shippedName": "陈小姐",
+                        "postalCode": "518000"
+                    }
+                },
+                {
+                    "orderId": "171970187093562090",
+                    "createTime": 1528865200000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "21848348289",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=21848348289&quantity=1",
+                            "itemName": "官方快充 浙江移动话费充值50元自动快充  即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "21848348289",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=21848348289&quantity=1",
+                            "itemName": "官方快充 浙江移动话费充值50元自动快充  即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "21848348289",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=21848348289&quantity=1",
+                            "itemName": "官方快充 浙江移动话费充值50元自动快充  即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "21848348289",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=21848348289&quantity=1",
+                            "itemName": "官方快充 浙江移动话费充值50元自动快充  即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "167691143994562090",
+                    "createTime": 1527738579000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "13567417368",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=13567417368&quantity=1",
+                            "itemName": "浙江移动100元充值 快充 即时到帐 自动充值",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "160348393264562090",
+                    "createTime": 1526174050000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "159604799192562090",
+                    "createTime": 1526012593000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35056734676",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35056734676&quantity=1",
+                            "itemName": "浙江移动手机话费充值100元 快充直充24小时中国移动官方旗舰店",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "150807336527562090",
+                    "createTime": 1524190085000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "134528222331562090",
+                    "createTime": 1520762331000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "1000",
+                            "itemUrl": "//dianying.taobao.com/order_detail.htm?n_s=new&orderId=134528222331562090&ot=ST",
+                            "itemName": "《厉害了，我的国》杭州UME国际影城电影票",
+                            "price": 75,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 75,
+                        "dueMoney": 75,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "148075880122562090",
+                    "createTime": 1523609310000,
+                    "confirmTime": 0,
+                    "status": "已取消",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "145845849942562090",
+                    "createTime": 1523083953000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "144153612132562090",
+                    "createTime": 1522716420000,
+                    "confirmTime": 1523620904000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "550518629068",
+                            "itemUrl": "//item.taobao.com/item.htm?id=550518629068&_u=s27238ls4d74",
+                            "itemName": "太平鸟男装 夏季宽松白色罗纹圆领字母数字胶印短袖T恤BWDA72676",
+                            "price": 398,
+                            "number": 1,
+                            "level1Id": "2",
+                            "level1Name": "服装鞋包",
+                            "level2Id": "30",
+                            "level2Name": "男装",
+                            "level3Id": "50000436",
+                            "level3Name": "T恤"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "EMS",
+                        "deliverId": "1155507297214",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1522716436000,
+                        "allMoney": 127,
+                        "dueMoney": 127,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "太平鸟男装旗舰店",
+                        "contactNumber": "0574-55331813",
+                        "city": "浙江 宁波"
+                    }
+                },
+                {
+                    "orderId": "144153612133562090",
+                    "createTime": 1522716420000,
+                    "confirmTime": 1523633072000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "565216077222",
+                            "itemUrl": "//item.taobao.com/item.htm?id=565216077222&_u=s27238ls82b8",
+                            "itemName": "英爵伦 2018夏季新品 男士简约字母绣花圆领T恤 青年舒适短袖衫t",
+                            "price": 68,
+                            "number": 1,
+                            "level1Id": "2",
+                            "level1Name": "服装鞋包",
+                            "level2Id": "30",
+                            "level2Name": "男装",
+                            "level3Id": "50000436",
+                            "level3Name": "T恤"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "圆通速递",
+                        "deliverId": "888955515734317377",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1522716436000,
+                        "allMoney": 68,
+                        "dueMoney": 68,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "英爵伦男装旗舰店",
+                        "city": "广东省 广州市"
+                    }
+                },
+                {
+                    "orderId": "144153612134562090",
+                    "createTime": 1522716420000,
+                    "confirmTime": 1523600475000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "557788800469",
+                            "itemUrl": "//item.taobao.com/item.htm?id=557788800469&_u=s27238ls1b39",
+                            "itemName": "Simwood简木男装2018春季新款休闲字母印花修身圆领打底短袖T恤男",
+                            "price": 88,
+                            "number": 1,
+                            "level1Id": "2",
+                            "level1Name": "服装鞋包",
+                            "level2Id": "30",
+                            "level2Name": "男装",
+                            "level3Id": "50000436",
+                            "level3Name": "T恤"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "中通快递",
+                        "deliverId": "486660968339",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1522716436000,
+                        "allMoney": 95,
+                        "dueMoney": 95,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "simwood旗舰店",
+                        "contactNumber": "13375777860",
+                        "city": "广东 广州"
+                    }
+                },
+                {
+                    "orderId": "144153612135562090",
+                    "createTime": 1522716420000,
+                    "confirmTime": 0,
+                    "status": "已取消",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "544888291487",
+                            "itemUrl": "//item.taobao.com/item.htm?id=544888291487&_u=s27238ls54fd",
+                            "itemName": "衣品天成2018夏季新款t恤男士短袖圆领纯色纯棉潮流韩版半袖体恤",
+                            "price": 128,
+                            "number": 1,
+                            "level1Id": "2",
+                            "level1Name": "服装鞋包",
+                            "level2Id": "30",
+                            "level2Name": "男装",
+                            "level3Id": "50000436",
+                            "level3Name": "T恤"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "—",
+                        "deliverId": "—",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1522716436000,
+                        "allMoney": 78.9,
+                        "dueMoney": 78.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "衣品天成旗舰店",
+                        "contactNumber": "0571-87954416",
+                        "city": "浙江 杭州"
+                    }
+                },
+                {
+                    "orderId": "135643320792562090",
+                    "createTime": 1520993699000,
+                    "confirmTime": 1521858182000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "12209565583",
+                            "itemUrl": "//item.taobao.com/item.htm?id=12209565583&_u=s27238ls637a",
+                            "itemName": "差价邮费补拍链接 差多少元拍多少个 不接受任何形式的中差评",
+                            "price": 1,
+                            "number": 40,
+                            "level1Id": "0",
+                            "level1Name": "其他",
+                            "level2Id": "50023724",
+                            "level2Name": "其他",
+                            "level3Id": "50023725",
+                            "level3Name": "邮费"
+                        }
+                    ],
+                    "receivePersonInfo": {
+                        "receivePersonalName": "俞超群",
+                        "detailAddress": "浙江省 杭州市 余杭区 余杭区南湖村小坞里五组17号",
+                        "mobile": "13656679354",
+                        "postalCode": "311100"
+                    },
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "—",
+                        "deliverId": "—",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1520993714000,
+                        "allMoney": 40,
+                        "dueMoney": 40,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "艾亚旗舰店",
+                        "contactNumber": "13819116821",
+                        "city": "浙江 杭州"
+                    }
+                },
+                {
+                    "orderId": "135638588025562090",
+                    "createTime": 1520992922000,
+                    "confirmTime": 1521858170000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "10847430231",
+                            "itemUrl": "//item.taobao.com/item.htm?id=10847430231&_u=s27238ls5f99",
+                            "itemName": "11朵香槟玫瑰鲜花义乌宁波上海武汉长沙杭州白色情人节同城速递",
+                            "price": 298,
+                            "number": 1,
+                            "level1Id": "11",
+                            "level1Name": "生活服务",
+                            "level2Id": "50007216",
+                            "level2Name": "鲜花速递/花卉仿真/绿植园艺",
+                            "level3Id": "290501",
+                            "level3Name": "鲜花速递(同城)"
+                        }
+                    ],
+                    "receivePersonInfo": {
+                        "receivePersonalName": "俞超群",
+                        "detailAddress": "浙江省 杭州市 余杭区 余杭区南湖村小坞里五组17号",
+                        "mobile": "13656679354",
+                        "postalCode": "311100"
+                    },
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "—",
+                        "deliverId": "—",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1520992945000,
+                        "allMoney": 119,
+                        "dueMoney": 119,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "艾亚旗舰店",
+                        "contactNumber": "13819116821",
+                        "city": "浙江 杭州"
+                    }
+                },
+                {
+                    "orderId": "135335434006562090",
+                    "createTime": 1520924530000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "17664835262",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17664835262&quantity=1",
+                            "itemName": "官方超快充&mdash;浙江移动50元手机话费充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17664835262",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17664835262&quantity=1",
+                            "itemName": "官方超快充&mdash;浙江移动50元手机话费充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17664835262",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17664835262&quantity=1",
+                            "itemName": "官方超快充&mdash;浙江移动50元手机话费充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17664835262",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17664835262&quantity=1",
+                            "itemName": "官方超快充&mdash;浙江移动50元手机话费充值",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "135215678776562090",
+                    "createTime": 1520910370000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "125795303952562090",
+                    "createTime": 1519016103000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "125079258830562090",
+                    "createTime": 1518508110000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20852524547",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20852524547&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 50元 快充直充 24小时自动充值快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "119642329552562090",
+                    "createTime": 1517022432000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "113976137949562090",
+                    "createTime": 1515814460000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动话费 50元移动话费 自动充值 直充快充 快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动话费 50元移动话费 自动充值 直充快充 快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动话费 50元移动话费 自动充值 直充快充 快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动话费 50元移动话费 自动充值 直充快充 快速到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "110500580439562090",
+                    "createTime": 1515035537000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "106350395340562090",
+                    "createTime": 1514109267000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "16213026863",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=16213026863&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 20元 快充直充 24小时自动充值快速到账",
+                            "price": 19.96,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "16213026863",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=16213026863&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 20元 快充直充 24小时自动充值快速到账",
+                            "price": 19.96,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "16213026863",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=16213026863&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 20元 快充直充 24小时自动充值快速到账",
+                            "price": 19.96,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "16213026863",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=16213026863&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 20元 快充直充 24小时自动充值快速到账",
+                            "price": 19.96,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 19.96,
+                        "dueMoney": 19.96,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "101899739994562090",
+                    "createTime": 1513234065000,
+                    "confirmTime": 1513682914000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "561059595999",
+                            "itemUrl": "//item.taobao.com/item.htm?id=561059595999&_u=s27238ls1461",
+                            "itemName": "【国内现货包邮】美国原装塑封 Noodler&#39;s Ink 鲶鱼钢笔墨水 永",
+                            "price": 83,
+                            "number": 1,
+                            "level1Id": "3",
+                            "level1Name": "手机数码",
+                            "level2Id": "50018004",
+                            "level2Name": "电子词典/电纸书/文化用品",
+                            "level3Id": "50012716",
+                            "level3Name": "笔类/书写工具"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "韵达快递",
+                        "deliverId": "3927261318907",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1513234105000,
+                        "allMoney": 83,
+                        "dueMoney": 83,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "达迈香氛"
+                    }
+                },
+                {
+                    "orderId": "101776175421562090",
+                    "createTime": 1513219234000,
+                    "confirmTime": 1513682930000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "530246020159",
+                            "itemUrl": "//item.taobao.com/item.htm?id=530246020159&_u=s27238ls4618",
+                            "itemName": "卡通多功能抱枕被子两用汽车空调被靠垫可爱办公室午睡毯子靠枕头",
+                            "price": 188,
+                            "number": 1,
+                            "level1Id": "7",
+                            "level1Name": "家居建材",
+                            "level2Id": "122852001",
+                            "level2Name": "居家布艺",
+                            "level3Id": "213002",
+                            "level3Name": "靠垫/抱枕"
+                        },
+                        {
+                            "itemId": "530246020159",
+                            "itemUrl": "//item.taobao.com/item.htm?id=530246020159&_u=s27238ls4618",
+                            "itemName": "卡通多功能抱枕被子两用汽车空调被靠垫可爱办公室午睡毯子靠枕头",
+                            "price": 188,
+                            "number": 1,
+                            "level1Id": "7",
+                            "level1Name": "家居建材",
+                            "level2Id": "122852001",
+                            "level2Name": "居家布艺",
+                            "level3Id": "213002",
+                            "level3Name": "靠垫/抱枕"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "韵达快递",
+                        "deliverId": "3831055066785",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1513219292000,
+                        "allMoney": 136,
+                        "dueMoney": 136,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "绮曼家纺旗舰店",
+                        "contactNumber": "0571-81022742",
+                        "city": "浙江 杭州"
+                    }
+                },
+                {
+                    "orderId": "101529859068562090",
+                    "createTime": 1513154970000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "17895491283",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17895491283&quantity=1",
+                            "itemName": "浙江移动话费50元快充  自动充值 即时到帐 手机充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17895491283",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17895491283&quantity=1",
+                            "itemName": "浙江移动话费50元快充  自动充值 即时到帐 手机充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17895491283",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17895491283&quantity=1",
+                            "itemName": "浙江移动话费50元快充  自动充值 即时到帐 手机充值",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "17895491283",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=17895491283&quantity=1",
+                            "itemName": "浙江移动话费50元快充  自动充值 即时到帐 手机充值",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "100126161300562090",
+                    "createTime": 1512961728000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "99920500439562090",
+                    "createTime": 1512830469000,
+                    "confirmTime": 1513218912000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "521323201615",
+                            "itemUrl": "//item.taobao.com/item.htm?id=521323201615&_u=s27238lsc203",
+                            "itemName": "海洋之星深海鱼成犬狗粮无谷天然粮中小型犬成犬小颗粒1.5kg",
+                            "price": 240,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50015380",
+                            "level3Name": "犬主粮"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "圆通快递",
+                        "deliverId": "887593690579531056",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1512830498000,
+                        "allMoney": 145,
+                        "dueMoney": 145,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "海洋之星官方旗舰店",
+                        "contactNumber": "-",
+                        "city": "广东 深圳"
+                    }
+                },
+                {
+                    "orderId": "97320672463562090",
+                    "createTime": 1511682999000,
+                    "confirmTime": 0,
+                    "status": "已取消",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 9.5,
+                        "dueMoney": 9.5,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "97321120300562090",
+                    "createTime": 1511682978000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "43886045697",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=43886045697&quantity=1",
+                            "itemName": "浙江移动流量充值 1GB 省内流量 自动充值 手机流量叠加包",
+                            "price": 30,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "43886045697",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=43886045697&quantity=1",
+                            "itemName": "浙江移动流量充值 1GB 省内流量 自动充值 手机流量叠加包",
+                            "price": 30,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "43886045697",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=43886045697&quantity=1",
+                            "itemName": "浙江移动流量充值 1GB 省内流量 自动充值 手机流量叠加包",
+                            "price": 30,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "43886045697",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=43886045697&quantity=1",
+                            "itemName": "浙江移动流量充值 1GB 省内流量 自动充值 手机流量叠加包",
+                            "price": 30,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 30,
+                        "dueMoney": 30,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "97313197718562090",
+                    "createTime": 1511682965000,
+                    "confirmTime": 0,
+                    "status": "已取消",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "559984198634",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=559984198634&quantity=1",
+                            "itemName": "浙江移动手机流量快充1GB省内流量浙江闪充包 快速生效 24小有效",
+                            "price": 9.5,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 9.5,
+                        "dueMoney": 9.5,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "94619065339562090",
+                    "createTime": 1510547700000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "true"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "90203891925562090",
+                    "createTime": 1510330945000,
+                    "confirmTime": 1511653526000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "559767866569",
+                            "itemUrl": "//item.taobao.com/item.htm?id=559767866569&_u=s27238lsc5e2",
+                            "itemName": "【双11狂欢价】南极人加厚保暖冬季羊羔绒被子空调被冬天被芯棉被春秋被单人被褥",
+                            "price": 419,
+                            "number": 1,
+                            "level1Id": "7",
+                            "level1Name": "家居建材",
+                            "level2Id": "50008163",
+                            "level2Name": "床上用品",
+                            "level3Id": "126038001",
+                            "level3Name": "被子"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "申通快递",
+                        "deliverId": "3343547209005",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1510330990000,
+                        "allMoney": 129,
+                        "dueMoney": 129,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "南极人维米专卖店",
+                        "city": "江苏省 南通市"
+                    }
+                },
+                {
+                    "orderId": "90203891926562090",
+                    "createTime": 1510330945000,
+                    "confirmTime": 1511640478000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "560118382412",
+                            "itemUrl": "//item.taobao.com/item.htm?id=560118382412&_u=s27238ls349b",
+                            "itemName": "【双11狂欢价】南极人羊羔绒毛毯加厚保暖双层单人珊瑚绒法兰毯子休闲毯秋冬季毯",
+                            "price": 790,
+                            "number": 1,
+                            "level1Id": "7",
+                            "level1Name": "家居建材",
+                            "level2Id": "50008163",
+                            "level2Name": "床上用品",
+                            "level3Id": "50001871",
+                            "level3Name": "休闲毯/毛毯/绒毯"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "中通快递",
+                        "deliverId": "462928779541",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1510330990000,
+                        "allMoney": 140,
+                        "dueMoney": 140,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "南极人倍荣专卖店"
+                    }
+                },
+                {
+                    "orderId": "90203891927562090",
+                    "createTime": 1510330945000,
+                    "confirmTime": 1510649535000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "555659199328",
+                            "itemUrl": "//item.taobao.com/item.htm?id=555659199328&_u=s27238ls6bd4",
+                            "itemName": "【双11狂欢价】金毛衣服狗狗秋冬装中型大型犬萨摩耶拉布拉多大狗幼犬宠物四脚装",
+                            "price": 109,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50001739",
+                            "level3Name": "宠物服饰及配件"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "韵达快递",
+                        "deliverId": "3970224841537",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1510330990000,
+                        "allMoney": 35,
+                        "dueMoney": 35,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "酷宝宠物用品专营店"
+                    }
+                },
+                {
+                    "orderId": "90203891928562090",
+                    "createTime": 1510330945000,
+                    "confirmTime": 1510649565000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "559535877684",
+                            "itemUrl": "//item.taobao.com/item.htm?id=559535877684&_u=s27238lsa4a6",
+                            "itemName": "【双11狂欢价】宠物衣服狗狗秋冬两脚衣泰迪秋装比熊博美冬装小型犬幼犬棉衣加厚",
+                            "price": 67.6,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50001739",
+                            "level3Name": "宠物服饰及配件"
+                        },
+                        {
+                            "itemId": "559657779939",
+                            "itemUrl": "//item.taobao.com/item.htm?id=559657779939&_u=s27238lsc28e",
+                            "itemName": "【双11狂欢价】狗狗衣服泰迪四脚衣宠物秋装加厚棉衣比熊博美犬小型犬幼犬秋冬装",
+                            "price": 60,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50001739",
+                            "level3Name": "宠物服饰及配件"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "申通快递",
+                        "deliverId": "3343562242295",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1510330990000,
+                        "allMoney": 57.2,
+                        "dueMoney": 57.2,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "嬉皮狗旗舰店"
+                    }
+                },
+                {
+                    "orderId": "82594471329562090",
+                    "createTime": 1509320910000,
+                    "confirmTime": 1510194375000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "521323201615",
+                            "itemUrl": "//item.taobao.com/item.htm?id=521323201615&_u=s27238lsc203",
+                            "itemName": "海洋之星深海鱼成犬狗粮无谷天然粮中小型犬成犬小颗粒1.5kg",
+                            "price": 240,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50015380",
+                            "level3Name": "犬主粮"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "圆通快递",
+                        "deliverId": "886948532414036006",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1509320925000,
+                        "allMoney": 145,
+                        "dueMoney": 145,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "海洋之星官方旗舰店",
+                        "contactNumber": "-",
+                        "city": "广东 深圳"
+                    }
+                },
+                {
+                    "orderId": "81171483552562090",
+                    "createTime": 1509073117000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35055897900",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055897900&quantity=1",
+                            "itemName": "浙江移动手机话费充值200元 快充直充24小时中国移动官方旗舰店",
+                            "price": 199.6,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055897900",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055897900&quantity=1",
+                            "itemName": "浙江移动手机话费充值200元 快充直充24小时中国移动官方旗舰店",
+                            "price": 199.6,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055897900",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055897900&quantity=1",
+                            "itemName": "浙江移动手机话费充值200元 快充直充24小时中国移动官方旗舰店",
+                            "price": 199.6,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055897900",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055897900&quantity=1",
+                            "itemName": "浙江移动手机话费充值200元 快充直充24小时中国移动官方旗舰店",
+                            "price": 199.6,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 199.6,
+                        "dueMoney": 199.6,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "81054189046562090",
+                    "createTime": 1509035588000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "533152366363",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=533152366363&quantity=1",
+                            "itemName": "浙江移动流量充值 1G 省内通用 手机流量包 自动充值当月有效yd",
+                            "price": 35,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "533152366363",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=533152366363&quantity=1",
+                            "itemName": "浙江移动流量充值 1G 省内通用 手机流量包 自动充值当月有效yd",
+                            "price": 35,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "533152366363",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=533152366363&quantity=1",
+                            "itemName": "浙江移动流量充值 1G 省内通用 手机流量包 自动充值当月有效yd",
+                            "price": 35,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "533152366363",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=533152366363&quantity=1",
+                            "itemName": "浙江移动流量充值 1G 省内通用 手机流量包 自动充值当月有效yd",
+                            "price": 35,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 35,
+                        "dueMoney": 35,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "76329218472562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509171947000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "45200098775",
+                            "itemUrl": "//item.taobao.com/item.htm?id=45200098775&_u=s27238lsbb67",
+                            "itemName": "卫龙辣条大面筋68g*10包麻辣味香辣片小吃整箱儿时怀旧零食大礼包",
+                            "price": 18.9,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "123248003",
+                            "level3Name": "豆干制品/蔬菜干"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "百世快递",
+                        "deliverId": "71194018264277",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 18.9,
+                        "dueMoney": 18.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "猫诚旗舰店",
+                        "contactNumber": "021-58363635-823",
+                        "city": "上海 上海"
+                    }
+                },
+                {
+                    "orderId": "76329218473562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509364691000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "558955902397",
+                            "itemUrl": "//item.taobao.com/item.htm?id=558955902397&_u=s27238lsc1d8",
+                            "itemName": "18g金特红鸡爪30包- 50包 多味卤味 泡椒凤爪真空小包装零食包邮",
+                            "price": 16.8,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "百世快递",
+                        "deliverId": "350335046806",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 16.8,
+                        "dueMoney": 16.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "金特红食品"
+                    }
+                },
+                {
+                    "orderId": "76329218474562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509174060000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "546688107813",
+                            "itemUrl": "//item.taobao.com/item.htm?id=546688107813&_u=s27238ls1010",
+                            "itemName": "香之派 卤味鸭爪20包 香辣泡鸭掌美味零食泡鸭脚办公室小吃熟食",
+                            "price": 88,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50008613",
+                            "level3Name": "牛肉干/猪肉脯/卤味零食"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "韵达快递",
+                        "deliverId": "3913621875047",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 31.8,
+                        "dueMoney": 31.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "香之派旗舰店"
+                    }
+                },
+                {
+                    "orderId": "76329218475562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509177918000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "521901304472",
+                            "itemUrl": "//item.taobao.com/item.htm?id=521901304472&_u=s27238ls9238",
+                            "itemName": "乐事薯片70克*8+40克*4办公室零食大礼包批发整箱膨化食品散装",
+                            "price": 71.8,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50010550",
+                            "level3Name": "饼干/膨化"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "EMS经济快递",
+                        "deliverId": "9768552421042",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 59.9,
+                        "dueMoney": 59.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "百事集团官方旗舰店",
+                        "contactNumber": "0571-28181307",
+                        "city": "广东 广州"
+                    }
+                },
+                {
+                    "orderId": "76329218476562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509171509000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "545546620966",
+                            "itemUrl": "//item.taobao.com/item.htm?id=545546620966&_u=s27238ls7c65",
+                            "itemName": "百乐芬抹茶味蛋糕1000g整箱 三层夹心糕点心办公室早餐小面包零食",
+                            "price": 50,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50552001",
+                            "level3Name": "糕点/点心"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "邮政快递包裹",
+                        "deliverId": "9891372573967",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 29.9,
+                        "dueMoney": 29.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "百乐芬食品旗舰店"
+                    }
+                },
+                {
+                    "orderId": "76329218477562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509175047000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "43058563810",
+                            "itemUrl": "//item.taobao.com/item.htm?id=43058563810&_u=s27238ls80db",
+                            "itemName": "久久丫甜辣薄豆干500g豆腐干豆干办公室休闲小包装零食大礼包",
+                            "price": 18.3,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "123248003",
+                            "level3Name": "豆干制品/蔬菜干"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "申通快递",
+                        "deliverId": "3341355026714",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 18.3,
+                        "dueMoney": 18.3,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "篱胧食品专营店",
+                        "contactNumber": "021-57530023-",
+                        "city": "上海 上海"
+                    }
+                },
+                {
+                    "orderId": "76329218478562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509174359000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "13354200066",
+                            "itemUrl": "//item.taobao.com/item.htm?id=13354200066&_u=s27238lsad6c",
+                            "itemName": "良品铺子鸡蛋干小包装特产香辣味豆干办公室小吃零食 休闲食品",
+                            "price": 35,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "123248003",
+                            "level3Name": "豆干制品/蔬菜干"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "中通快递",
+                        "deliverId": "537177291855",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 9.9,
+                        "dueMoney": 9.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "良品铺子旗舰店",
+                        "contactNumber": "13476038080",
+                        "city": "湖北 武汉"
+                    }
+                },
+                {
+                    "orderId": "76329218479562090",
+                    "createTime": 1508293242000,
+                    "confirmTime": 1509165291000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "40713290083",
+                            "itemUrl": "//item.taobao.com/item.htm?id=40713290083&_u=s27238lsb720",
+                            "itemName": "半梅话梅半边梅半梅干鸳鸯梅500g酸甜可口办公室零食果干蜜饯包邮",
+                            "price": 12.8,
+                            "number": 1,
+                            "level1Id": "8",
+                            "level1Name": "百货食品",
+                            "level2Id": "50002766",
+                            "level2Name": "零食/坚果/特产",
+                            "level3Id": "50013061",
+                            "level3Name": "蜜饯/枣类/梅/果干"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "百世快递",
+                        "deliverId": "70185300938023",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508293287000,
+                        "allMoney": 12.8,
+                        "dueMoney": 12.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "原来就是我152"
+                    }
+                },
+                {
+                    "orderId": "75251805458562090",
+                    "createTime": 1508136715000,
+                    "confirmTime": 1509012418000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "551217429809",
+                            "itemUrl": "//item.taobao.com/item.htm?id=551217429809&_u=s27238lsd60f",
+                            "itemName": "狗狗雨衣中型大型犬衣服大狗宠物雨披拉布拉多金毛防水雨伞秋冬装",
+                            "price": 40,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50001739",
+                            "level3Name": "宠物服饰及配件"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "韵达快递",
+                        "deliverId": "3970224420418",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1508136738000,
+                        "allMoney": 22,
+                        "dueMoney": 22,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "酷宝宠物用品专营店"
+                    }
+                },
+                {
+                    "orderId": "73365362078562090",
+                    "createTime": 1507850935000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35142846114",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35142846114&quantity=1",
+                            "itemName": "浙江移动50元 移动话费 自动充值 秒充快充 即时到账",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "64005903117562090",
+                    "createTime": 1506656215000,
+                    "confirmTime": 1507529407000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "548904630909",
+                            "itemUrl": "//item.taobao.com/item.htm?id=548904630909&_u=s27238ls01dd",
+                            "itemName": "【换新价】飞科挂胡刀剃须刀男士智能充电式刮胡刀电动递须刀全身水洗胡子刀",
+                            "price": 299,
+                            "number": 1,
+                            "level1Id": "4",
+                            "level1Name": "家用电器",
+                            "level2Id": "50002768",
+                            "level2Name": "个人护理/保健/按摩器材",
+                            "level3Id": "50010567",
+                            "level3Name": "清洁美容工具"
+                        },
+                        {
+                            "itemId": "37722876227",
+                            "itemUrl": "//fwfront.tmall.com/protocol/get_protocol.htm?service_item_id=37722876227&servOrderId=64005903119562090&buyerId=2384569020",
+                            "itemName": "增值服务：全国联保",
+                            "price": 0,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "邮政快递包裹",
+                        "deliverId": "9891273739940",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1506656230000,
+                        "allMoney": 89,
+                        "dueMoney": 89,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "flyco飞科恒隽专卖店",
+                        "city": "浙江省 杭州市"
+                    }
+                },
+                {
+                    "orderId": "63980367536562090",
+                    "createTime": 1506655844000,
+                    "confirmTime": 1507534555000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "521323201615",
+                            "itemUrl": "//item.taobao.com/item.htm?id=521323201615&_u=s27238lsc203",
+                            "itemName": "海洋之星深海鱼成犬狗粮无谷天然粮中小型犬成犬小颗粒1.5kg",
+                            "price": 240,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50015380",
+                            "level3Name": "犬主粮"
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "圆通快递",
+                        "deliverId": "886559205929894682",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1506655881000,
+                        "allMoney": 145,
+                        "dueMoney": 145,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "海洋之星官方旗舰店",
+                        "contactNumber": "-",
+                        "city": "广东 深圳"
+                    }
+                },
+                {
+                    "orderId": "65756890326562090",
+                    "createTime": 1506522142000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "20445652387",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=20445652387&quantity=1",
+                            "itemName": "浙江移动 手机 话费充值 100元 快充直充 24小时自动充值快速到账",
+                            "price": 99.8,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 99.8,
+                        "dueMoney": 99.8,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "59484805264562090",
+                    "createTime": 1505281720000,
+                    "confirmTime": 0,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        },
+                        {
+                            "itemId": "35055699768",
+                            "itemUrl": "//buy.taobao.com/auction/buy_now.jhtml?item_id_num=35055699768&quantity=1",
+                            "itemName": "浙江移动手机话费充值50元 快充直充24小时中国移动官方旗舰店",
+                            "price": 49.9,
+                            "number": 1
+                        }
+                    ],
+                    "receivePersonInfo": {},
+                    "deliveryInfo": {
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 0,
+                        "allMoney": 49.9,
+                        "dueMoney": 49.9,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {}
+                },
+                {
+                    "orderId": "56200183836562090",
+                    "createTime": 1504595751000,
+                    "confirmTime": 1505466693000,
+                    "status": "完成",
+                    "cancelledTime": 0,
+                    "itemInfos": [
+                        {
+                            "itemId": "521323201615",
+                            "itemUrl": "//item.taobao.com/item.htm?id=521323201615&_u=s27238lsc203",
+                            "itemName": "海洋之星深海鱼成犬狗粮无谷天然粮中小型犬1.5kg小颗粒",
+                            "price": 240,
+                            "number": 1,
+                            "level1Id": "10",
+                            "level1Name": "文化玩乐",
+                            "level2Id": "29",
+                            "level2Name": "宠物/宠物食品及用品",
+                            "level3Id": "50015380",
+                            "level3Name": "犬主粮"
+                        }
+                    ],
+                    "receivePersonInfo": {
+                        "receivePersonalName": "乔巴",
+                        "detailAddress": "浙江省 杭州市 西湖区 E30中心公寓 820室",
+                        "mobile": "13758155284",
+                        "postalCode": "310013"
+                    },
+                    "deliveryInfo": {
+                        "deliverWay": "快递",
+                        "deliverCompany": "芝麻开门",
+                        "deliverId": "611013402978832",
+                        "receiveTime": 0
+                    },
+                    "payInfo": {
+                        "payTime": 1504595789000,
+                        "allMoney": 145,
+                        "dueMoney": 145,
+                        "useHuabei": "false"
+                    },
+                    "sellerInfo": {
+                        "name": "海洋之星官方旗舰店",
+                        "contactNumber": "-",
+                        "city": "广东 深圳"
+                    }
+                }
+            ],
+            "shoppingCartInfos": []
+        }
+    }
+}
